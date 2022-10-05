@@ -1,0 +1,54 @@
+body {
+    background-color: #90fcf9;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main-title, 
+.subtitle {
+    font-weight: bold;
+    color: #EF8354;
+    text-align: center;
+
+}
+
+.main-title {
+    font-size: 48px;
+}
+
+.subtitle {
+    font-size: 32px;
+}
+
+ul .recipe-list {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color:#EF8354;
+    text-align: center;
+    list-style-position: inside;
+    
+}
+
+.normal-text {
+    font-size: 18px;
+    color:#EF8354;
+    width: 40%;
+    box-align: center;
+    margin-left: 30%;
+    margin-right: auto;
+    padding: 10px;
+    
+}
+
+.recipe-image {
+    display: block;
+    height: auto;
+    width: 50%;
+    margin: auto;
+    margin: auto;
+    padding: 20px;
+ 
+}
+
+
+
+
